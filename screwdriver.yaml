@@ -4,4 +4,4 @@ shared:
 jobs:
   main:
     steps:
-      - hello: echo 'hello'
+      - hello: echo 'hello2'
